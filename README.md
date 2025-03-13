@@ -1,6 +1,6 @@
-# RStudio Shiny App P-Value Calculator and Simulation
+# R-Studio Shiny App P-Value Calculator and Simulation
 
-Link to [Shiny App Simulation](https://annarakes.shinyapps.io/ShinyAppProject/)
+**Link to [Shiny App Simulation](https://annarakes.shinyapps.io/ShinyAppProject/)**
 
 
 ## Overview
