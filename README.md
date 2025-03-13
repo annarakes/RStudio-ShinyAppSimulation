@@ -1,5 +1,5 @@
 # R-Studio Shiny App P-Value Calculator and Simulation
-## Author: Anna Rakes and Lexi Waller
+## Authors: Anna Rakes and Lexi Waller
 
 **Link to [Shiny App Simulation](https://annarakes.shinyapps.io/ShinyAppProject/)**
 
