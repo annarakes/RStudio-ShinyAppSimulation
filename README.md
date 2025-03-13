@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project is a Shiny web application developed by Anna Rakes and Lexi Waller. The application allows users to visualize and calculate p-values for normal and t-distributions based on user-defined test statistics and directionality.
+This project is a Shiny web application developed by Anna Rakes and Lexi Waller for the Statistical Computing for Simulation Theory class at Elon University. The application allows users to visualize and calculate p-values for normal and t-distributions based on user-defined test statistics and directionality.
 
 ## Features
 
